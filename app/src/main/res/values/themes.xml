@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NOTES_TAKER_1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/my_primary</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/black</item>
+    </style>
+
+
+    <style name="Theme.NOTES_TAKER_1" parent="Base.Theme.NOTES_TAKER_1" />
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127804514840",
+    "project_id": "notestaker-43260",
+    "storage_bucket": "notestaker-43260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127804514840:android:4aba7b6dcbad978a0e996d",
+        "android_client_info": {
+          "package_name": "com.example.notes_taker_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-TyiQMR2XaRgTyM4BMN_DaNIn6svbi3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
